@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fernando-fiddymont
 - 👀 I’m interested in computers! 
-- 🌱 I’m currently learning to code in Java using JavaFx to create GUI's
+- 🌱 I’m currently enrolled in a Bachelors degree of ICT at Ara
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
